@@ -2,10 +2,10 @@
 "#23" = "#23";
 
 /* {card brand} ending in {last4} */
-"%@ Ending In %@" = "%1$@ Ending In %2$@";
+"%@ Ending In %@" = "%1$@ Expire Dans %2$@";
 
 /* Placeholder for Phone field on address form */
-"(555) 123-1234" = "(555) 123-1234";
+"(555) 123-1234" = "0612345678";
 
 /* Placeholder for Address field on address form */
 "123 Address St" = "123 Address St";
@@ -14,16 +14,16 @@
 "12345" = "12345";
 
 /* Placeholder for Postal Code field on address form */
-"ABC-1234" = "ABC-1234";
+"ABC-1234" = "59000";
 
 /* Title for Add a Card view */
-"Add a Card" = "Add a Card";
+"Add a Card" = "Ajouter une carte";
 
 /* No comment provided by engineer. */
-"Add New Card…" = "Add New Card…";
+"Add New Card…" = "Ajouter une nouvelle carte…";
 
 /* Caption for Address field on address form */
-"Address" = "Address";
+"Address" = "Addresse";
 
 /* Text for Apple Pay payment method */
 "Apple Pay" = "Apple Pay";
@@ -32,7 +32,7 @@
 "Apt." = "Apt.";
 
 /* Text for back button */
-"Back" = "Back";
+"Back" = "Retour";
 
 /* Placeholder for State field on address form (US region only) */
 "CA" = "CA";
@@ -41,106 +41,106 @@
 "card number" = "card number";
 
 /* Caption for City field on address form */
-"City" = "City";
+"City" = "Ville";
 
 /* Caption for Country field on address form */
-"Country" = "Country";
+"Country" = "Pays";
 
 /* Caption for County field on address form (non-US regions only) */
-"County" = "County";
+"County" = "Comté";
 
 /* No comment provided by engineer. */
-"Didn't receive the code?" = "Didn't receive the code?";
+"Didn't receive the code?" = "Code non reçu?";
 
 /* Caption for Email field on address form */
 "Email" = "Email";
 
 /* No comment provided by engineer. */
-"Enter card details manually" = "Enter card details manually";
+"Enter card details manually" = "Entrer les détails de la carte manuellement";
 
 /* No comment provided by engineer. */
-"Enter the verification code to use the payment info you stored with Stripe." = "Enter the verification code to use the payment info you stored with Stripe.";
+"Enter the verification code to use the payment info you stored with Stripe." = "Entrez le code de vérification pour utiliser les informations de paiement que vous avez enregistré avec Stripe .";
 
 /* accessibility label for text field */
-"expiration date" = "expiration date";
+"expiration date" = "Date d'expiration";
 
 /* No comment provided by engineer. */
-"Fill in your card details manually" = "Fill in your card details manually";
+"Fill in your card details manually" = "Remplissez vos coordonnées de carte manuellement";
 
 /* No comment provided by engineer. */
-"Invalid Code" = "Invalid Code";
+"Invalid Code" = "Code invalide";
 
 /* Placeholder for Name field on address form */
 "John Appleseed" = "John Appleseed";
 
 /* No comment provided by engineer. */
-"Loading…" = "Loading…";
+"Loading…" = "Chargement…";
 
 /* The text in the full Remember Me TOS/privacy footer to turn into a link to the more info URL. NOTE: this must _EXACTLY_ match a substring in the full remember me footer text */
-"More Info" = "More Info";
+"More Info" = "Plus d'informations";
 
 /* Caption for Name field on address form */
-"Name" = "Name";
+"Name" = "Nom";
 
 /* No comment provided by engineer. */
-"Next" = "Next";
+"Next" = "Suivant";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
 
 /* No comment provided by engineer. */
-"Paste copied code?" = "Paste copied code?";
+"Paste copied code?" = "Coller le code copié?";
 
 /* Title for Payment Method screen */
-"Payment Method" = "Payment Method";
+"Payment Method" = "Méthode de paiement";
 
 /* Caption for Phone field on address form */
-"Phone" = "Phone";
+"Phone" = "Téléphone";
 
 /* Caption for Postal Code field on address form (non-US regions only) */
-"Postal Code" = "Postal Code";
+"Postal Code" = "Code Postal";
 
 /* The text in the full Remember Me TOS/privacy footer to turn into a link to the privacy policy URL. NOTE: this must _EXACTLY_ match a substring in the full remember me footer text */
-"Privacy Policy" = "Privacy Policy";
+"Privacy Policy" = "Politique de confidentialité";
 
 /* Placeholder for City field on address form */
 "San Francisco" = "San Francisco";
 
 /* Label for the switch to enable Remember Me */
-"Save for use in other apps" = "Save for use in other apps";
+"Save for use in other apps" = "Sauvegarder pour utilisation sur d'autres apps";
 
 /* No comment provided by engineer. */
-"Something went wrong with remember me: " = "Something went wrong with remember me: ";
+"Something went wrong with remember me: " = "Un problème est survenue avec la fonctionnalité se souvenir de moi: ";
 
 /* Caption for State field on address form (US region only) */
-"State" = "State";
+"State" = "Etat";
 
 /* Footer shown when user enables Remember Me that show additional info. If you change/localize this, you _MUST_ change the Privacy Policy, Terms, and More Info strings to match. */
-"Stripe may store my payment info and phone number for use in this app and other apps, and use my number for verification, subject to Stripe's Privacy Policy and Terms. More Info" = "Stripe may store my payment info and phone number for use in this app and other apps, and use my number for verification, subject to Stripe's Privacy Policy and Terms. More Info";
+"Stripe may store my payment info and phone number for use in this app and other apps, and use my number for verification, subject to Stripe's Privacy Policy and Terms. More Info" = "Stripe peut utiliser mes informations de paiement et mon numéro de téléphone pour cette application et d'autre applications, et utiliser mon numéro pour vérification, soumis à la Politique de confidentialité et aux Conditions de Stripe. Plus d'informations";
 
 /* The text in the full Remember Me TOS/privacy footer to turn into a link to the terns of service URL. NOTE: this must _EXACTLY_ match a substring in the full remember me footer text */
-"Terms" = "Terms";
+"Terms" = "Conditions";
 
 /* No comment provided by engineer. */
-"The operation was cancelled" = "The operation was cancelled";
+"The operation was cancelled" = "L'opération à été annulée";
 
 /* Error when there is a problem processing the credit card */
-"There was an error processing your card -- try again in a few seconds" = "There was an error processing your card -- try again in a few seconds";
+"There was an error processing your card -- try again in a few seconds" = "Une erreur est survenue lors du traitement de votre carte -- réessayer dans quelques secondes";
 
 /* No comment provided by engineer. */
-"There was an error submitting your autofilled card details." = "There was an error submitting your autofilled card details.";
+"There was an error submitting your autofilled card details." = "Une erreur est survenue lors de la soumission des détails autoremplis de votre carte.";
 
 /* Unexpected error, such as a 500 from Stripe or a JSON parse error */
-"There was an unexpected error -- try again in a few seconds" = "There was an unexpected error -- try again in a few seconds";
+"There was an unexpected error -- try again in a few seconds" = "Une erreur inattendue est survenue -- réessayer dans quelques secondes";
 
 /* No comment provided by engineer. */
-"Too many incorrect attempts" = "Too many incorrect attempts";
+"Too many incorrect attempts" = "Trop de tentatives incorrectes";
 
 /* No comment provided by engineer. */
-"Verification Code" = "Verification Code";
+"Verification Code" = "Code de vérification";
 
 /* No comment provided by engineer. */
-"We just sent a text message to:" = "We just sent a text message to:";
+"We just sent a text message to:" = "Nous venons d'envoyer un sms à:";
 
 /* Placeholder text for non-Amex CVC field (3 digits) */
 "XXX" = "XXX";
@@ -152,22 +152,22 @@
 "you@example.com" = "you@example.com";
 
 /* Error when the card has already expired */
-"Your card has expired" = "Your card has expired";
+"Your card has expired" = "Votre carte à expirée";
 
 /* Error when the card was declined by the credit card networks */
-"Your card was declined" = "Your card was declined";
+"Your card was declined" = "Votre carte à été refusée";
 
 /* Error when the card's expiration month is not valid */
-"Your card's expiration month is invalid" = "Your card's expiration month is invalid";
+"Your card's expiration month is invalid" = "Le mois d'expiration est invalide";
 
 /* Error when the card's expiration year is not valid */
-"Your card's expiration year is invalid" = "Your card's expiration year is invalid";
+"Your card's expiration year is invalid" = "La date d'expiration est invalide";
 
 /* Error when the card number is not valid */
-"Your card's number is invalid" = "Your card's number is invalid";
+"Your card's number is invalid" = "Votre numéro de carte est invalide";
 
 /* Error when the card's CVC is not valid */
-"Your card's security code is invalid" = "Your card's security code is invalid";
+"Your card's security code is invalid" = "Le code de sécurité est invalide";
 
 /* Caption for Zip Code field on address form (US region only) */
 "ZIP Code" = "ZIP Code";
